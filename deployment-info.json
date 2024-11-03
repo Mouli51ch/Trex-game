@@ -1,0 +1,11 @@
+{
+  "contractAddress": "0x5CA51a7F0b3E7af389A900520360DD3E59F6E24e",
+  "aiaTokenAddress": "0x70645091201A0019c7Fe869E82366A7dF6A4206A",
+  "deployerAddress": "0x798b32BDf86253060d598038b1D77C98C36881D6",
+  "deploymentTime": "2024-11-02T21:01:45.722Z",
+  "network": {
+    "name": "unknown",
+    "chainId": 1320
+  },
+  "initialGamePrice": "0.1"
+}
